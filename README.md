@@ -15,10 +15,7 @@ PoC de Server-Sent Events con un marcador deportivo en vivo.
 ## Pasos para clonar y ejecutar
 
 1. Clonar el repositorio:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd PoC-SSE
-   ```
+
 2. Iniciar el backend:
    ```bash
    cd server
